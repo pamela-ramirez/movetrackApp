@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="estilos.css" />
+  <title>React App</title>
+</head>
+
+<body>
+  <div id="root">
+    <div class="dashboard">
+      <div class="header">
+        <h1>Titulo</h2>
+        <input type="button" value="Logout" />
+      </div>
+      <div class="main">
+        <div class="informe">
+          <!-- <div class="total">
+            <h2>Tiempo Total</h2>
+            <h3></h3>
+            <p>minutos</p>           
+          </div> -->
+          <div class="diaro">
+            <h2>Tiempo Diario</h2>
+            <h3></h3>
+            <p>minutos</p>
+          </div>
+        </div>
+        <div class="analisis">
+          <div class="grafico1"></div>
+          <div class="grafico2"></div>
+          <div class="evolucionPersonal"></div>
+        </div>
+        <div class="listado">
+          <div class="agregar">
+            <input type="button" value="Agregar" />
+          </div>
+          <div class="filtro">
+            <label for="fecha">Filtrar por fecha:</label>
+            <select for="fecha">
+              <option>Ultima semana</option>
+              <option>Ultimo mes</option>
+              <option>Todos</option>
+            </select>
+            <input type="submit" value="Filtrar" />
+          </div>
+          <div class="tabla"> 
+            <table>
+              <thead>
+                  <tr>
+                      <th>ID</th>
+                      <th>Actividad</th>
+                      <th>Tiempo (en minutos)</th>
+                      <th>Fecha</th>
+                      <th></th>
+                  </tr>
+              </thead>
+              <tbody>
+                  <!-- <tr>
+                      <td>1</td>
+                      <td>Pamela</td>
+                      <td>28</td>
+                      <td>Mendoza</td>
+                      <td>
+                        <input type="button" value="Borrar" />
+                      </td>
+                  </tr> -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

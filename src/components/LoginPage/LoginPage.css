@@ -1,0 +1,40 @@
+.login-container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+    background-color: #fbfbfb;
+  }
+  
+  .login-container img {
+    margin: 0 auto !important;
+    height: 50px;
+    width: 50px;
+  }
+  .login-container .logo-container {
+    margin-bottom: 15px;
+  }
+  .login-container h1 {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  .form-control::placeholder {
+    color: #6c757d;
+  }
+  .input-group-text {
+    background-color: #e9ecef;
+  }
+  .btn-google {
+    background-color: #fff;
+    border: 1px solid #e9ecef;
+    color: #333;
+  }
+  .btn-google img {
+    height: 20px;
+    margin-right: 8px;
+  }
+  .custom-control-label::before {
+    border-color: #e9ecef;
+  }
+  

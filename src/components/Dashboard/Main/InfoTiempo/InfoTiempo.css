@@ -1,0 +1,15 @@
+.stats-total {
+    background-color: #45b9d5 !important;
+    color: #fff;
+  }
+  
+  .stats-diario {
+    background-color: #b682db !important;
+    color: #fff;
+  }
+
+  .stats-info {
+    border-radius: 15px !important;
+    text-align: left;
+  }
+
