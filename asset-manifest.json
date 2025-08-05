@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/movetrackApp/static/css/main.6745bb97.css",
+    "main.js": "/movetrackApp/static/js/main.23ac9522.js",
+    "static/js/488.e101fedd.chunk.js": "/movetrackApp/static/js/488.e101fedd.chunk.js",
+    "static/media/logo3.png": "/movetrackApp/static/media/logo3.955db044b0fc4c1a2ac7.png",
+    "static/media/logo.png": "/movetrackApp/static/media/logo.40259c2e08c468964332.png",
+    "static/media/logo2.jpg": "/movetrackApp/static/media/logo2.0dbb0c5a5c7de407c976.jpg",
+    "index.html": "/movetrackApp/index.html",
+    "main.6745bb97.css.map": "/movetrackApp/static/css/main.6745bb97.css.map",
+    "main.23ac9522.js.map": "/movetrackApp/static/js/main.23ac9522.js.map",
+    "488.e101fedd.chunk.js.map": "/movetrackApp/static/js/488.e101fedd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6745bb97.css",
+    "static/js/main.23ac9522.js"
+  ]
+}
